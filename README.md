@@ -1,12 +1,10 @@
 # marketing_analys
 
-Analysis
-
-Project Overview
+## Project Overview
 
 This project focuses on analyzing customer trends and purchasing behaviors to optimize marketing strategies. The main objectives include identifying the top customers by sales, calculating the average purchase per customer, categorizing customer types, and measuring the duration of repurchases. This analysis helps businesses make data-driven decisions to enhance customer retention and revenue growth.
 
-Dataset Description
+## Dataset Description
 
 The dataset includes the following key information:
 
@@ -20,7 +18,7 @@ Customer Type: Categorization of customers based on purchasing behavior.
 
 Repurchase Interval: Time duration between consecutive purchases.
 
-Key Objectives
+## Key Objectives
 
 Identify the customers with the highest sales volume.
 
@@ -30,7 +28,7 @@ Categorize customer segments based on purchasing patterns.
 
 Analyze the repurchase duration to understand customer retention.
 
-Tools and Methods
+## Tools and Methods
 
 Python: Data cleaning, transformation, and visualization.
 
@@ -42,7 +40,7 @@ SQL: Querying and filtering customer transaction data.
 
 Machine Learning Models (if applicable): Customer segmentation and predictive analytics.
 
-🔍 Analysis Results
+## Analysis Results
 
 Key Findings
 
